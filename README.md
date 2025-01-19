@@ -9,8 +9,3 @@ I am George Lolaev( See my Portfolio ) , a Data Engineer 🚀 from Russia. I hav
  <a href="https://t.me/atlant64" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="amiranbilaonov" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/георгий-лолаев-413846283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgelolaev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13236823/Лолаев-Георгий" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-
-
-
-📊 &nbsp;**This week I spent my time on**
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=theJosephGoodman&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
